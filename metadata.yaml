@@ -1,0 +1,24 @@
+_repo: Niels-Lyhne_55389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacobsen, J. P. (Jens Peter)
+    alias: Jacobsen, Jens Peter
+    birthdate: 1847
+    deathdate: 1885
+    gutenberg_agent_id: '2193'
+    url: http://www.gutenberg.org/2009/agents/2193
+    wikipedia: http://en.wikipedia.org/wiki/Jens_Peter_Jacobsen
+description: ''
+gutenberg_issued: '2017-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Niels Lyhne
+url: http://www.gutenberg.org/ebooks/55389
